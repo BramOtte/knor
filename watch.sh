@@ -1,0 +1,1 @@
+nodemon -e .c,.cc,.cpp,.h,.hh,.hpp,.sh,CMakeLists.txt -x "sh run.sh $@"
